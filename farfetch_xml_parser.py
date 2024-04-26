@@ -68,7 +68,7 @@ else:
     print(r.status_code)
 
 # %%
-small_loc_elements = loc_elements[2]
+small_loc_elements = loc_elements[4]
 
 tags = ['a', 'p', 'li']
 
